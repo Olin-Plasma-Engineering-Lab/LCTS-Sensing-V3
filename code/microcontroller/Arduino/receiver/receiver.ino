@@ -12,7 +12,7 @@ void setup() {
   Wire.onReceive(receiveEvent);
   Wire1.setSDA(2);
   Wire1.setSCL(3);
-  Wire1.begin(); 
+  Wire1.begin();
 }
 
 void receiveEvent(int numBytes) {
