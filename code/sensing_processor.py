@@ -24,7 +24,7 @@ try:
     serial_port = serial.Serial(CONTROLLER_COMM_PORT, BAUD_RATE, timeout=1)
 except serial.serialutil.SerialException:
     print(
-        f"Device not found on port {CONTROLLER_COMM_PORT}. Close any programs (Arduino IDE) that may be using port"
+        f"Device not found on port {CONTROLLER_COMM_PORT}. Close any programs (Arduino IDE) that may be using port {CONTROLLER_COMM_PORT}"
     )
 else:
     with open(f"Trial {formatted_time}.csv", "w") as data:
