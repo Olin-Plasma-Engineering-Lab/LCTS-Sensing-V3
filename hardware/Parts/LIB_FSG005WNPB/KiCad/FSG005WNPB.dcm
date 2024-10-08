@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSG005WNPB
+D Force Sensing Resistor Force Sensor 0 ~ 5N
+K
+F https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/force-sensors/fsg-series/documents/sps-siot-force-sensors-fsg-product-sheet-008028-2-en-ciid-50136.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FSG005WNPB
+#/11466867/1502116/2.50/4/3/Undefined or Miscellaneous
+DEF FSG005WNPB U 0 30 Y Y 1 F N
+F0 "U" 1250 300 50 H V L CNN
+F1 "FSG005WNPB" 1250 200 50 H V L CNN
+F2 "FSG005WNPB" 1250 100 50 H I L CNN
+F3 "https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/force-sensors/fsg-series/documents/sps-siot-force-sensors-fsg-product-sheet-008028-2-en-ciid-50136.pdf" 1250 0 50 H I L CNN
+F4 "Force Sensing Resistor Force Sensor 0 ~ 5N" 1250 -100 50 H I L CNN "Description"
+F5 "10.74" 1250 -200 50 H I L CNN "Height"
+F6 "785-FSG005WNPB" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Honeywell/FSG005WNPB?qs=I6adikXrXuBeZpr7MAxECg%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Honeywell" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "FSG005WNPB" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X SUPPLY_VS_(+) 1 0 -300 200 R 50 50 0 0 P
+X OUTPUT_VO_(+) 2 0 -200 200 R 50 50 0 0 P
+X GROUND_VG_(-) 3 0 -100 200 R 50 50 0 0 P
+X OUTPUT_VO_(-) 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
