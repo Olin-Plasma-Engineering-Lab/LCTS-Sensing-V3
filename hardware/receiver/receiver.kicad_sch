@@ -1413,6 +1413,17 @@
 		)
 		(uuid "0364932b-4a69-414b-a4cc-285bbef02b79")
 	)
+	(label "GND"
+		(at 121.92 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "13ef6db3-cffa-486d-8cd8-c0752afbb326")
+	)
 	(label "+5V"
 		(at 144.78 52.07 270)
 		(fields_autoplaced yes)
@@ -1456,6 +1467,17 @@
 			(justify right bottom)
 		)
 		(uuid "4d3faa30-6ab6-4a48-8350-e7719ce20a25")
+	)
+	(label "GND"
+		(at 157.48 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c60789f-6413-4312-aafc-3e38035a719f")
 	)
 	(label "GND"
 		(at 157.48 116.84 0)
