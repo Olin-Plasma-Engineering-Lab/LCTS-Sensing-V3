@@ -910,4 +910,15 @@
 		(solder_mask_margin 0.102)
 		(uuid "8007827e-b445-44bb-aec5-04bfa822e52f")
 	)
+	(model "/Users/junpark/opel/LCTS-Sensing-V3/hardware/Parts/LMC6484IN_NOPB/LMC6484IN_NOPB.step"
+		(offset
+			(xyz -3.75 7.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 -180)
+		)
+	)
 )
