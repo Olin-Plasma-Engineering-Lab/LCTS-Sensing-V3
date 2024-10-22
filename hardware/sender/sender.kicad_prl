@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Sensing_PCB.kicad_prl",
+    "filename": "sender.kicad_prl",
     "version": 3
   },
   "project": {
