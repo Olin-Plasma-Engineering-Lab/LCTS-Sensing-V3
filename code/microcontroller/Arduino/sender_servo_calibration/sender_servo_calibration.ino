@@ -5,7 +5,7 @@ int const COMMS_ADDR = 0x10;
 int const CAL_ADDR = 0x20;
 uint16_t force;
 uint8_t FORCE_SENSOR = A0;
-uint8_t SERVO_PIN = 10;
+uint8_t SERVO_PIN = 6;
 
 Servo calibration;
 
